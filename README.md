@@ -39,4 +39,4 @@
 ![image](https://raw.githubusercontent.com/oxogenesis/oxo-chat-tutorial/master/019.05.png)
 ![image](https://raw.githubusercontent.com/oxogenesis/oxo-chat-tutorial/master/019.06.png)
 ![image](https://raw.githubusercontent.com/oxogenesis/oxo-chat-tutorial/master/019.07.png)
-![image](https://raw.githubusercontent.com/oxogenesis/oxo-chat-tutorial/master/020.png)
+![image](https://raw.githubusercontent.com/oxogenesis/oxo-chat-tutorial/master/20.png)
